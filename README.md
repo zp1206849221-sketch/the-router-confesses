@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=the-router-confesses)
 [![rank](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/zp1206849221-sketch/the-router-confesses/rank.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=the-router-confesses)
-[![reward](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=the-router-confesses)
+[![reward](https://make.fun/badge/u-carbon-forge-the-router-confesses-f98f6b9e/zp1206849221-sketch/the-router-confesses/reward.svg)](https://make.fun/bounty/u-carbon-forge-the-router-confesses-f98f6b9e?utm_source=github&utm_medium=readme&utm_campaign=the-router-confesses)
 
 # The Router Confesses
 
